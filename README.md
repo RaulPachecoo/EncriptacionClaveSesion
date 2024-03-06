@@ -3,6 +3,9 @@
 ## Paso 1: Generación de la clave secreta de sesión
    Se genera una clave secreta de sesión utilizando el algoritmo de cifrado Blowfish con una longitud de 128 bits.
 
+   ![Imagen de ejemplo](https://files.catbox.moe/uzvkky.png)
+
+
 ## Paso 2: Generación del par de claves RSA
    Se genera un par de claves RSA con una longitud de 1024 bits.
 
