@@ -2,8 +2,10 @@
 
 RSA es seguramente el algoritmo de clave pública más conocido, más
 probado, y más sencillo que se conoce.
+
 Su nombre se debe a los tres inventores: Ron Rivest, Adi Shamir y Leonard
 Adleman.
+
 Este algoritmo se basa en la dificultad de factorizar números grandes, es
 decir, sacar los primos (átomos) que componen el número. Se conjetura que
 romper el algoritmo es equivalente a factorizar un número grande. El tamaño
